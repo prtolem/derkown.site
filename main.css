@@ -1,0 +1,42 @@
+body{
+    background-image: url(dfghj.gif);
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;    
+}
+.icons{
+    height: 100px; 
+    width: 100px;
+    border-radius: 50%;
+    padding: 30px
+
+    
+}
+
+.dis3{
+    margin-left: auto;
+    margin-right: auto;
+    width: 528px;
+}
+
+.dis2{
+    margin-left: auto;
+    margin-right: auto;
+    width: 352px;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 165px;
+    color: white;
+    font-size: 60px;
+    font-family: monospace;
+}
+
+
+    
